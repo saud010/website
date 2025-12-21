@@ -10,16 +10,17 @@ export const translations = {
       contact: 'Kontakt',
     },
     hero: {
-      title: 'Notenschlüsseldienst Pinneberg',
-      subtitle: 'Schnelle & faire Türöffnung',
+      title: 'Notenschlüsseldienst Kreis-Pinneberg',
+      subtitle: 'Schnelle & faire Preise für Türöffnung',
       bullets: [
-        'Lokaler Schlüsseldienst aus Pinneberg',
-        'Keine Autoöffnungen',
-        'Nur Pinneberg & direkte Umgebung',
+        'Lokaler Schlüsseldienst aus Kreis-Pinneberg',
+        'Ab 59€ pro Einsatz',
+        'Kreis-Pinneberg & direkte Umgebung',
+        'Zuzüglich Reisekosten für weit enternte Ziele',
         'Faire & transparente Preise',
       ],
       callNow: 'Jetzt anrufen',
-      emergency: 'Soforthilfe bei zugefallener Tür',
+      emergency: 'Soforthilfe bei zugefallenen und klemmenden Türen',
     },
     services: {
       title: 'Unsere Leistungen',
