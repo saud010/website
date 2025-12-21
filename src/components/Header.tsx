@@ -30,8 +30,8 @@ export function Header({ currentPage, onNavigate, language, onLanguageChange }: 
             className="flex items-center space-x-2 text-xl font-bold text-slate-800 hover:text-blue-600 transition-colors"
           >
             <span className="text-2xl">🔑</span>
-            <span className="hidden sm:inline">Notenschlüsseldienst Pinneberg</span>
-            <span className="sm:hidden">NS Pinneberg</span>
+            <span className="hidden sm:inline">Notenschlüsseldienst | Kreis-Pinneberg</span>
+            <span className="sm:hidden">NS | Kreis-Pinneberg</span>
           </button>
 
           <nav className="hidden lg:flex items-center space-x-6">
