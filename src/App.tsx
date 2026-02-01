@@ -59,9 +59,9 @@ function App() {
   }
 
   function getSEOData() {
-    const baseTitle = 'Notenschlüsseldienst Pinneberg';
+    const baseTitle = 'Notschlüsseldienst Pinneberg';
     const baseDescription = language === 'de'
-      ? 'Lokaler Notenschlüsseldienst in Pinneberg - Schnelle & faire Türöffnung ohne versteckte Kosten. Rufen Sie jetzt an: 015780914217'
+      ? 'Lokaler Notschlüsseldienst in Pinneberg - Schnelle & faire Türöffnung ohne versteckte Kosten. Rufen Sie jetzt an: 015780914217'
       : 'Local emergency locksmith in Pinneberg - Fast & fair door opening without hidden costs. Call now: 015780914217';
 
     switch (currentPage) {
