@@ -95,7 +95,7 @@ function App() {
         return {
           title: `${t.contact.title} - ${baseTitle}`,
           description: language === 'de'
-            ? 'Kontaktieren Sie den Notenschlüsseldienst Pinneberg: 015780914217. Schnelle Hilfe bei zugefallener Tür, 24/7 Notdienst.'
+            ? 'Kontaktieren Sie den Notschlüsseldienst Pinneberg: 015780914217. Schnelle Hilfe bei zugefallener Tür, 24/7 Notdienst.'
             : 'Contact emergency locksmith Pinneberg: 015780914217. Quick help for locked doors, 24/7 emergency service.',
         };
       case 'impressum':
