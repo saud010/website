@@ -10,7 +10,7 @@ export const translations = {
       contact: 'Kontakt',
     },
     hero: {
-      title: 'Notenschlüsseldienst Kreis-Pinneberg',
+      title: 'Notschlüsseldienst Kreis-Pinneberg',
       subtitle: 'Schnelle & faire Preise für Türöffnung',
       bullets: [
         'Lokaler Schlüsseldienst aus Kreis-Pinneberg',
@@ -68,7 +68,7 @@ export const translations = {
     about: {
       title: 'Über uns',
       subtitle: 'Ihr lokaler Schlüsseldienst in Pinneberg',
-      intro: 'Wir sind ein lokaler Notenschlüsseldienst mit Sitz in Pinneberg und bedienen ausschließlich Pinneberg und die direkte Umgebung.',
+      intro: 'Wir sind ein lokaler Notschlüsseldienst mit Sitz in Pinneberg und bedienen ausschließlich Pinneberg und die direkte Umgebung.',
       experience: 'Erfahrung & Kompetenz',
       experienceDesc: 'Mit langjähriger Erfahrung in der professionellen Türöffnung stehen wir Ihnen in Notsituationen zur Seite.',
       values: 'Unsere Werte',
@@ -94,7 +94,7 @@ export const translations = {
       hours: '24/7 Notdienst',
     },
     footer: {
-      description: 'Ihr zuverlässiger Notenschlüsseldienst in Pinneberg',
+      description: 'Ihr zuverlässiger Notschlüsseldienst in Pinneberg',
       quickLinks: 'Schnellzugriff',
       legal: 'Rechtliches',
       impressum: 'Impressum',
