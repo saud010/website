@@ -22,7 +22,7 @@ export function Impressum({ language }: ImpressumProps) {
                 {t.impressum.company}
               </h2>
               <div className="space-y-2 text-slate-700">
-                <p className="font-semibold">Notenschlüsseldienst Pinneberg</p>
+                <p className="font-semibold">Notschlüsseldienst Pinneberg</p>
                 <p>Pinneberg</p>
                 <p>Schleswig-Holstein</p>
               </div>
