@@ -35,9 +35,9 @@ export function SEO({ title, description, language, page }: SEOProps) {
       schemaScript.text = JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'LocalBusiness',
-        name: 'Notenschlüsseldienst Pinneberg',
+        name: 'Notschlüsseldienst Pinneberg',
         description: language === 'de'
-          ? 'Lokaler Notenschlüsseldienst in Pinneberg - Schnelle und faire Türöffnung ohne versteckte Kosten'
+          ? 'Lokaler Notschlüsseldienst in Pinneberg - Schnelle und faire Türöffnung ohne versteckte Kosten'
           : 'Local emergency locksmith in Pinneberg - Fast and fair door opening without hidden costs',
         telephone: '+4915780914217',
         address: {
