@@ -93,7 +93,7 @@ export function Footer({ onNavigate, language }: FooterProps) {
         </div>
 
         <div className="border-t border-slate-700 mt-8 pt-8 text-center text-sm">
-          <p>&copy; {new Date().getFullYear()} Notenschlüsseldienst Pinneberg. {t.footer.rights}</p>
+          <p>&copy; {new Date().getFullYear()} Notschlüsseldienst Pinneberg. {t.footer.rights}</p>
         </div>
       </div>
     </footer>
