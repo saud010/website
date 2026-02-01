@@ -16,7 +16,7 @@ export function Footer({ onNavigate, language }: FooterProps) {
           <div>
             <h3 className="text-white text-lg font-bold mb-4 flex items-center space-x-2">
               <span className="text-2xl">🔑</span>
-              <span>Notenschlüsseldienst</span>
+              <span>Notschlüsseldienst</span>
             </h3>
             <p className="text-sm mb-4">{t.footer.description}</p>
             <div className="flex items-start space-x-2 text-sm">
